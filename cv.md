@@ -40,6 +40,14 @@ Basic HTML, CSS, JS, Git.
 ***Books***
 
 javascript for kid "Nick Morgan"
+
 Eloquent JavaScript "Marijin Haverbeke"
+
 [learn.javascript.ru](https://learn.javascript.ru/)
 
+## Education:
+
+Graduated from Orekhovo-Zuevsky State Vocational-Pedagogical College, profession "Master of Maintenance"
+
+## Knowledge of English:
+A1 level
