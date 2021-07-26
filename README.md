@@ -1,1 +1,1 @@
-https://F1xa.github.io/rsschool-cv/cv
+https://F1xa.github.io/rsschool-cv/
