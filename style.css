@@ -58,6 +58,10 @@
   width: 25px;
 }
 
+.contacts__element__img-rss {
+  width: 60px;
+}
+
 .skills__list {
   list-style: none;
 }
@@ -66,7 +70,15 @@
   padding: 10px 0px 10px 30px;
   list-style: circle;
 }
- 
+
+.footer__list {
+  display: flex;
+}
+
+.footer__icons {
+  padding: 0px 10px;
+}
+
 h2 {
   margin-bottom: 15px;
   font-weight: bold;
